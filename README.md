@@ -33,7 +33,9 @@
   - Abstractを入力としたトピックモデル（LDA）
   - 各論文のトピック組成を二次元空間に可視化（UMAP）
 
-<img src="./assets/workflow.png" width="600">
+<p align="center">
+  <img src="./assets/workflow.png" width="600">
+</p>
 
 > [!NOTE]
 > [ゲノビ年表](https://sites.google.com/view/genobiwakate/ゲノビ年表)は、日本ゲノム微生物学会若手の会が作成している、ゲノム微生物学における重要論文を整理した年表です。
@@ -46,5 +48,6 @@
 - 青の点：ゲノビ年表由来の論文。クリックすると、その論文が強く含むトピックが大きく表示されます。
 - グレーの点：ゲノビ年表由来の論文と引用・被引用関係にある論文。
 
-<img src="./assets/Viewer.png" width="600">
-
+<p align="center">
+  <img src="./assets/Viewer.png" width="600">
+</p>
