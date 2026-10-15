@@ -1,7 +1,7 @@
 # ゲノム微生物学の地図
 
 ゲノム微生物学という分野の構造を、可視化するためのアプリケーション。  
-[こちら](https://genobinenpyovisualizer.onrender.com/)からインタラクティブな探索が可能です。
+[こちら](https://genobinenpyovisualizer.onrender.com/)からインタラクティブな探索が可能です。  
 ※webサービスのRenderで公開している都合上、立ち上がりに数十秒程度かかる場合があります。
 
 
